@@ -1,0 +1,57 @@
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 190px; 
+  justify-content: center;
+}
+
+.project-box {
+  background-color: #272626;
+  overflow: hidden;
+  width: 45%;  /* Adjust width to fit two boxes per row */
+  max-width: 500px;  /* Optional: Adjust max width as needed */
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;  /* For positioning the button */
+}
+
+.project-image {
+  width: 100%;
+  height: 300px;  /* Adjust height as needed */
+  object-fit: cover;
+}
+
+.project-info {
+  padding: 16px;
+  position: relative;
+}
+
+.project-title {
+  padding: 16px;
+  background-color: #272626;
+  text-align: center;
+}
+
+.projects-title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.view-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #6200ea;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.view-button:hover {
+  background-color: #3700b3;
+}

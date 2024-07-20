@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    position: relative;
+  }
+  
+  .footer-left {
+    flex: 1;
+  }
+  
+  .footer-left p {
+    margin: 0;
+  }
+  
+  .footer-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .footer-icon {
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-icon img {
+    width: 24px; /* Adjust size as needed */
+    height: 24px; /* Adjust size as needed */
+  }
+  

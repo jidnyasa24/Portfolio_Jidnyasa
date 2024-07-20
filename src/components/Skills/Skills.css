@@ -1,0 +1,109 @@
+.skills-container {
+  display: flex;
+  flex-direction: column; /* Stack boxes vertically */
+  gap: 20px; /* Space between rows */
+  align-items: center; /* Center boxes horizontally */
+}
+
+.skills-header {
+  display: flex;
+  justify-content: space-between; /* Space between the heading and button */
+  align-items: center;
+  width: 100%; /* Make the header take the full width */
+  max-width: 1200px; /* Adjust the maximum width as needed */
+  margin: 5rem 0 2rem; /* Add margin to the top and bottom */
+}
+
+.download-resume-btn {
+  background-color: #6200ea;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 0.25rem;
+}
+
+.download-resume-btn:hover {
+  background-color: #3700b3;
+}
+
+.college-pic {
+  width: 150px;
+  height: auto;
+  margin-right: 1rem;
+}
+
+.degree-info {
+  color: #fff;
+}
+
+.skills-box {
+  background-color: #272626;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skills-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.skill-category {
+  margin-bottom: 1rem;
+}
+
+.skill-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-item {
+  background-color: #333;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  color: #fff;
+}
+
+.internships-container {
+  display: flex;
+  flex-direction: column; /* Stack boxes vertically */
+  gap: 20px; /* Space between rows */
+  align-items: center; /* Center boxes horizontally */
+}
+
+.degree-box, .internship-box {
+  background-color: #272626;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Full width of container */
+  max-width: 1200px; /* Adjust the maximum width as needed */
+}
+
+.internship-logo {
+  width: 150px; /* Adjust width as needed */
+  height: auto;
+  margin-right: 1rem;
+}
+
+.internship-content {
+  color: #fff;
+  flex: 1; /* Allow content to take up remaining space */
+}
+
+.internship-company {
+  font-size: 1.5rem; /* Increase font size for better visibility */
+  margin-bottom: 0.5rem;
+}
+
+.internship-time {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.internship-description {
+  margin-top: 0.5rem;
+}

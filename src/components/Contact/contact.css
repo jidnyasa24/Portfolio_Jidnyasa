@@ -1,0 +1,51 @@
+#contact {
+  padding: 4% 0;
+  background-color: black;
+  text-align: center; /* Center align the heading */
+}
+
+.contact-box {
+  background-color: #272626; /* Match background color with internship box */
+  padding: 2rem; /* Match padding with internship box */
+  border-radius: 0.5rem; /* Match border radius with internship box */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Match box shadow with internship box */
+  width: 100%; /* Full width of container */
+  max-width: 500px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the box horizontally */
+}
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  color: #fff; /* Match text color with internship box */
+}
+
+.contactForm label {
+  margin-bottom: 1rem;
+}
+
+.contactForm input,
+.contactForm textarea {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem; /* Match border radius with internship box */
+  background-color: #333; /* Match background color with internship box */
+  color: #fff; /* Match text color with internship box */
+}
+
+.contactForm button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #6200ea;
+  color: #fff;
+  border: none;
+  border-radius: 0.25rem; /* Match border radius with internship box */
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.contactForm button:hover {
+  background-color: #3700b3;
+}
