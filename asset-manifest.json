@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Jidnyasa/static/css/main.56a6239f.css",
+    "main.js": "/Portfolio_Jidnyasa/static/js/main.7c84fe9a.js",
+    "static/media/front.png": "/Portfolio_Jidnyasa/static/media/front.dbcd1846b63d5a463552.png",
+    "static/media/college-pic.png": "/Portfolio_Jidnyasa/static/media/college-pic.506b707c2b7bb996ecb5.png",
+    "static/media/agritech.png": "/Portfolio_Jidnyasa/static/media/agritech.898df6e644a902cfcdc6.png",
+    "static/media/bg.png": "/Portfolio_Jidnyasa/static/media/bg.65114f6cfbbbae768deb.png",
+    "static/media/image.png": "/Portfolio_Jidnyasa/static/media/image.2605d60453a7252ea043.png",
+    "static/media/Alz.png": "/Portfolio_Jidnyasa/static/media/Alz.61cf75cbb3f96609337f.png",
+    "static/media/resume.pdf": "/Portfolio_Jidnyasa/static/media/resume.620b5be50ef1522ee83a.pdf",
+    "static/media/doc.png": "/Portfolio_Jidnyasa/static/media/doc.f0aa7351cadd0ad987b9.png",
+    "static/media/canspirit_logo.png": "/Portfolio_Jidnyasa/static/media/canspirit_logo.bd407d5944b8465ba5bc.png",
+    "static/media/logo.png": "/Portfolio_Jidnyasa/static/media/logo.e7f7c339132e87e882ba.png",
+    "index.html": "/Portfolio_Jidnyasa/index.html",
+    "main.56a6239f.css.map": "/Portfolio_Jidnyasa/static/css/main.56a6239f.css.map",
+    "main.7c84fe9a.js.map": "/Portfolio_Jidnyasa/static/js/main.7c84fe9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6239f.css",
+    "static/js/main.7c84fe9a.js"
+  ]
+}
